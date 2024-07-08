@@ -1,0 +1,501 @@
+Academic Year,District Name,School Name,Reporting Category,ChronicAbsenteeismEligibleCumulativeEnrollment,ChronicAbsenteeismCount,ChronicAbsenteeismRate,Graduate count
+2022-23,Alvord Unified,La Sierra High,GF,771,244,31.6,12
+2022-23,Placentia-Yorba Linda Unified,Esperanza High,SS,608,171,28.1,109
+2022-23,San Francisco Unified,Independence High,GF,180,108,60,42
+2022-23,Sweetwater Union High,District Office,RW,151,128,84.8,2
+2022-23,Modesto City High,Modesto High,GM,1283,402,31.3,255
+2022-23,San Bernardino City Unified,Arroyo Valley High,SE,567,236,41.6,73
+2022-23,Apple Valley Unified,Granite Hills High,RB,201,104,51.7,1
+2022-23,San Diego Unified,San Diego High,RH,1571,638,40.6,343
+2022-23,Corona-Norco Unified,Santiago High,TA,3555,620,17.4,464
+2022-23,Carlsbad Unified,Sage Creek High,RA,154,11,7.1,34
+2022-23,Los Angeles Unified,Harris Newmark Continuation,RH,118,102,86.4,45
+2022-23,Lakeside Union Elementary,River Valley Charter,SD,23,1,4.3,1
+2022-23,Santa Monica-Malibu Unified,"Nonpublic, Nonsectarian Schools",SD,15,0,0,4
+2022-23,Fullerton Joint Union High,La Habra High,RT,27,4,14.8,14
+2022-23,Southern Kern Unified,Rosamond High Early College Campus,RW,237,72,30.4,40
+2022-23,Los Angeles Unified,Computer Science Virtual Academy,RF,21,17,81,2
+2022-23,San Jose Unified,Pioneer High,GF,772,171,22.2,123
+2022-23,Los Angeles Unified,Rancho Dominguez Preparatory,RT,13,2,15.4,1
+2022-23,Central Union High,Desert Oasis High (Continuation),SD,22,10,45.5,5
+2022-23,Mt. Diablo Unified,District Office,GM,140,47,33.6,1
+2022-23,Pajaro Valley Unified,PVUSD Virtual Academy,TA,190,89,46.8,18
+2022-23,Hayward Unified,Mt. Eden High,SM,36,9,25,10
+2022-23,Western Placer Unified,John Adams Academy - Lincoln,RF,44,5,11.4,1
+2022-23,Santa Ana Unified,Hector G. Godinez,SH,269,48,17.8,86
+2022-23,Clovis Unified,Gateway High (Continuation),RW,88,53,60.2,21
+2022-23,Sacramento City Unified,Arthur A. Benjamin Health Professions High,GM,61,25,41,13
+2022-23,East Whittier City Elementary,District Office,GF,53,11,20.8,4
+2022-23,Murrieta Valley Unified,Vista Murrieta High,SH,15,6,40,1
+2022-23,Oak Grove Elementary,District Office,RH,34,24,70.6,211
+2022-23,Pomona Unified,School of Extended Educational Options,SE,110,25,22.7,21
+2022-23,Murrieta Valley Unified,District Office,SS,33,15,45.5,1
+2022-23,Los Angeles Unified,Grover Cleveland Charter High,GF,1490,436,29.3,317
+2022-23,Baldwin Park Unified,District Office,SS,37,23,62.2,2
+2022-23,Inglewood Unified,Animo Inglewood Charter High,RB,66,13,19.7,17
+2022-23,Tehama County Department of Education,Tehama eLearning Academy,SS,119,26,21.8,29
+2022-23,East Side Union High,Foothill High,SS,285,231,81.1,48
+2022-23,Warner Unified,Excel Academy Charter,RF,23,0,0,2
+2022-23,Folsom-Cordova Unified,Walnutwood High (Independent Study),SD,57,33,57.9,13
+2022-23,Corning Union High,Centennial Continuation High,SE,42,31,73.8,20
+2022-23,Mountain View-Los Altos Union High,Los Altos High,SD,254,92,36.2,67
+2022-23,Fowler Unified,Fowler High,SE,94,27,28.7,21
+2022-23,Yreka Union High,Yreka High,TA,687,194,28.2,137
+2022-23,South San Francisco Unified,El Camino High,SH,17,8,47.1,3
+2022-23,Irvine Unified,Woodbridge High,SH,17,8,47.1,5
+2022-23,Los Angeles Unified,Camino Nuevo High #2,SD,79,33,41.8,11
+2022-23,Fillmore Unified,Sierra High,GM,71,36,50.7,176
+2022-23,Duarte Unified,District Office,TA,21,8,38.1,2
+2022-23,San Pasqual Valley Unified,Bill M. Manes High,RI,13,0,0,1
+2022-23,Rialto Unified,Eisenhower High,TA,2328,846,36.3,510
+2022-23,Tamalpais Union High,Tamalpais High,RH,191,57,29.8,44
+2022-23,Solano County Office of Education,Elite Public,RH,247,78,31.6,5
+2022-23,Monrovia Unified,Monrovia High,RW,271,72,26.6,66
+2022-23,Los Angeles Unified,Francisco Bravo Medical Magnet High,RB,22,3,13.6,5
+2022-23,Warner Unified,All Tribes Charter,TA,67,4,6,5
+2022-23,Pleasanton Unified,Foothill High,SD,202,51,25.2,36
+2022-23,Orange Unified,District Office,SD,36,0,0,7
+2022-23,Anaheim Union High,John F. Kennedy High,GM,1114,193,17.3,56
+2022-23,Santa Cruz County Office of Education,Pacific Collegiate Charter,RH,95,14,14.7,20
+2022-23,Los Angeles County Office of Education,Central Juvenile Hall,SD,216,98,45.4,20
+2022-23,Kern High,Vista West Continuation High,SD,52,35,67.3,8
+2022-23,Redding Elementary,District Office,RW,25,2,8,1
+2022-23,Mendocino County Office of Education,Orr Creek,GM,58,39,67.2,1
+2022-23,Lone Pine Unified,Lone Pine High,SE,15,5,33.3,2
+2022-23,Riverside County Office of Education,River Springs Charter,SD,1247,178,14.3,39
+2022-23,Oakland Unified,Oakland School for the Arts,RH,150,1,0.7,23
+2022-23,Ventura Unified,El Camino High,GM,99,16,16.2,26
+2022-23,Julian Union Elementary,Diego Valley East Public Charter,GF,319,176,55.2,32
+2022-23,Grossmont Union High,Granite Hills High,RB,70,27,38.6,12
+2022-23,San Francisco Unified,District Office,SS,28,13,46.4,170
+2022-23,Linden Unified,Linden High,SH,23,10,43.5,5
+2022-23,Irvine Unified,University High,RT,202,17,8.4,9
+2022-23,Cotati-Rohnert Park Unified,Rancho Cotate High,SD,234,93,39.7,39
+2022-23,Colton Joint Unified,Washington High,RB,32,4,12.5,17
+2022-23,Mt. Diablo Unified,District Office,RH,107,41,38.3,1
+2022-23,Central Unified,Pershing Continuation High,GF,60,46,76.7,21
+2022-23,Contra Costa County Office of Education,Floyd I. Marchus,SS,23,18,78.3,1
+2022-23,Jefferson Union High,Westmoor High,GF,617,113,18.3,146
+2022-23,Dublin Unified,District Office,TA,26,5,19.2,4
+2022-23,Brentwood Union Elementary,District Office,SS,86,61,70.9,2
+2022-23,Temecula Valley Unified,Chaparral High,SD,506,134,26.5,69
+2022-23,Fremont Unified,Irvington High,SD,183,48,26.2,26
+2022-23,Menifee Union Elementary,Santa Rosa Academy,RF,47,1,2.1,1
+2022-23,Desert Sands Unified,Amistad High (Continuation),SS,295,229,77.6,120
+2022-23,Tustin Unified,District Office,TA,99,39,39.4,5
+2022-23,Columbia Elementary,Shasta View Academy,GM,243,2,0.8,15
+2022-23,Yuba City Unified,Yuba City High,RF,11,1,9.1,3
+2022-23,Riverside Unified,Martin Luther King Jr. High,RB,220,27,12.3,47
+2022-23,La Mesa-Spring Valley,District Office,GF,19,1,5.3,1
+2022-23,Manteca Unified,Sierra High,TA,1759,256,14.6,77
+2022-23,Santa Monica-Malibu Unified,"Nonpublic, Nonsectarian Schools",TA,15,0,0,1
+2022-23,Sweetwater Union High,Sweetwater High,RH,2161,704,32.6,533
+2022-23,Santa Rosa High,Elsie Allen High,RB,14,8,57.1,1
+2022-23,San Bernardino City Unified,San Bernardino High,SF,35,14,40,7
+2022-23,Los Angeles Unified,Northridge Academy High,RF,52,12,23.1,14
+2022-23,East Side Union High,Apollo High,GM,82,6,7.3,36
+2022-23,Yreka Union High,Discovery High,GM,53,46,86.8,22
+2022-23,Las Virgenes Unified,Agoura High,GF,838,122,14.6,180
+2022-23,San Diego Unified,Canyon Hills High,GM,720,130,18.1,131
+2022-23,Santa Cruz County Office of Education,Santa Cruz County Career Advancement Charter,GM,122,1,0.8,39
+2022-23,Chaffey Joint Union High,Valley View High (Continuation),GF,220,203,92.3,68
+2022-23,Coachella Valley Unified,Desert Mirage High,RH,2058,1047,50.9,382
+2022-23,Los Angeles Unified,East Valley Senior High,SD,129,53,41.1,17
+2022-23,Folsom-Cordova Unified,Cordova High,TA,2017,556,27.6,358
+2022-23,Saddleback Valley Unified,Laguna Hills High,SS,812,152,18.7,159
+2022-23,Antelope Valley Union High,SOAR High (Students On Academic Rise),SS,298,17,5.7,51
+2022-23,Butte County Office of Education,Hearthstone,GM,115,36,31.3,8
+2022-23,Inyo County Office of Education,YouthBuild Charter School of California,RT,15,12,80,3
+2022-23,Lompoc Unified,Lompoc High,GM,893,231,25.9,153
+2022-23,Lodi Unified,Liberty High,SD,21,13,61.9,6
+2022-23,Los Angeles Unified,Granada Hills Charter,SE,159,34,21.4,14
+2022-23,Pleasanton Unified,Foothill High,RF,44,4,9.1,4
+2022-23,Folsom-Cordova Unified,Kinney High (Continuation),RB,34,29,85.3,5
+2022-23,Los Angeles County Office of Education,Aspire Ollin University Preparatory Academy,RH,558,168,30.1,74
+2022-23,Monterey Peninsula Unified,Marina High,RB,39,9,23.1,8
+2022-23,Manhattan Beach Unified,District Office,SD,19,0,0,4
+2022-23,Bellflower Unified,District Office,TA,36,10,27.8,5
+2022-23,Los Angeles Unified,Angel's Gate (Continuation),SE,13,10,76.9,4
+2022-23,Adelanto Elementary,Taylion High Desert Academy/Adelanto,GM,468,259,55.3,21
+2022-23,Long Beach Unified,Eunice Sato Academy of Math & Science,SS,180,17,9.4,30
+2022-23,Anderson Valley Unified,Anderson Valley Junior-Senior High,TA,230,84,36.5,44
+2022-23,Irvine Unified,Creekside High,RW,35,32,91.4,10
+2022-23,Oro Grande,Mojave River Academy - National Trails,SD,131,25,19.1,11
+2022-23,Torrance Unified,South High,RH,429,84,19.6,86
+2022-23,Los Angeles Unified,San Fernando Senior High,SF,14,4,28.6,2
+2022-23,Acalanes Union High,Acalanes High,RB,12,1,8.3,1
+2022-23,Paramount Unified,Paramount High,RH,3464,889,25.7,762
+2022-23,Santa Monica-Malibu Unified,"Nonpublic, Nonsectarian Schools",GM,11,0,0,1
+2022-23,Fullerton Joint Union High,Troy High,RT,115,10,8.7,24
+2022-23,San Juan Unified,Casa Roble Fundamental High,RI,13,2,15.4,3
+2022-23,Sequoia Union High,Carlmont High,RF,61,3,4.9,16
+2022-23,Covina-Valley Unified,Northview High,SE,103,27,26.2,11
+2022-23,Manteca Unified,Sierra High,SS,824,147,17.8,21
+2022-23,William S. Hart Union High,Academy of the Canyons,GF,219,2,0.9,52
+2022-23,Sacramento City Unified,John F. Kennedy High,SH,27,22,81.5,9
+2022-23,Los Angeles Unified,Central High,RB,34,32,94.1,8
+2022-23,Acton-Agua Dulce Unified,"Method Schools, LA",TA,295,59,20,57
+2022-23,Fowler Unified,Fowler High,RH,662,163,24.6,165
+2022-23,San Dieguito Union High,Canyon Crest Academy,SD,134,22,16.4,36
+2022-23,Duarte Unified,District Office,TA,21,8,38.1,3
+2022-23,Mountain Empire Unified,Elite Academic Academy - Mountain Empire,SS,535,63,11.8,13
+2022-23,San Juan Unified,El Sereno Alternative Education,RH,51,24,47.1,14
+2022-23,Sonoma Valley Unified,Creekside High,RH,52,38,73.1,19
+2022-23,Los Angeles Unified,Discovery Charter Preparatory #2,GM,108,46,42.6,29
+2022-23,Los Angeles Unified,Animo Pat Brown,SH,26,9,34.6,3
+2022-23,Kern High,Centennial High,GF,1106,175,15.8,100
+2022-23,Colton Joint Unified,Bloomington High,RB,64,21,32.8,6
+2022-23,Corona-Norco Unified,Norco High,RA,52,5,9.6,9
+2022-23,California School for the Deaf-Fremont (State Special Schl),California School for the Deaf-Fremont,SD,314,98,31.2,30
+2022-23,Burbank Unified,Burroughs High,RH,1122,246,21.9,237
+2022-23,Escondido Union High,Orange Glen High,RH,1825,682,37.4,372
+2022-23,Sequoia Union High,District Office,GF,26,9,34.6,1
+2022-23,La Canada Unified,La Canada High,SD,169,28,16.6,23
+2022-23,Visalia Unified,Golden West High,RB,32,6,18.8,4
+2022-23,Temecula Valley Unified,Temecula Valley High,SS,844,242,28.7,160
+2022-23,San Bernardino City Unified,Sierra High,RW,18,17,94.4,10
+2022-23,Los Angeles Unified,Whitney Young Continuation,RH,18,12,66.7,3
+2022-23,Round Valley Unified,Round Valley High,SS,115,43,37.4,12
+2022-23,Pleasanton Unified,Foothill High,RH,246,43,17.5,100
+2022-23,Baldwin Park Unified,District Office,SD,45,25,55.6,1
+2022-23,Anaheim Union High,Loara High,SS,1575,489,31,323
+2022-23,Winters Joint Unified,Wolfskill High,SS,30,29,96.7,8
+2022-23,Madera Unified,Matilda Torres High,RW,103,38,36.9,27
+2022-23,San Diego Unified,San Diego SCPA,SE,17,4,23.5,1
+2022-23,Sequoia Union High,District Office,GF,26,9,34.6,1
+2022-23,Westside Elementary,Crescent View South II,RA,33,20,60.6,2
+2022-23,ABC Unified,Gahr (Richard) High,TA,1740,273,15.7,432
+2022-23,Bonita Unified,San Dimas High,GF,633,136,21.5,142
+2022-23,Red Bluff Joint Union High,Red Bluff High,GM,871,184,21.1,162
+2022-23,SBC - High Tech High,High Tech High Chula Vista,GM,364,87,23.9,82
+2022-23,Oxnard Union High,Adolfo Camarillo High,SH,61,19,31.1,11
+2022-23,Kern High,Foothill High,SS,2010,433,21.5,111
+2022-23,Torrance Unified,Torrance High,RB,89,14,15.7,21
+2022-23,Chaffey Joint Union High,Alta Loma High,RA,102,9,8.8,23
+2022-23,Chaffey Joint Union High,Montclair High,SF,25,6,24,3
+2022-23,Riverside Unified,Summit View Independent Study,SS,109,46,42.2,17
+2022-23,Kern High,Arvin High,SS,2794,700,25.1,541
+2022-23,Clovis Unified,Gateway High (Continuation),RB,42,24,57.1,3
+2022-23,Sweetwater Union High,San Ysidro High,RF,60,6,10,15
+2022-23,East Side Union High,Andrew P. Hill High,SD,252,130,51.6,47
+2022-23,Shasta Union High,Foothill High,RT,63,10,15.9,1
+2022-23,Hayward Unified,District Office,GM,43,15,34.9,6
+2022-23,Los Angeles Unified,Middle College High,TA,365,74,20.3,71
+2022-23,Baldwin Park Unified,District Office,RH,39,22,56.4,2
+2022-23,Coachella Valley Unified,La Familia Continuation High,GM,120,76,63.3,31
+2022-23,Los Angeles Unified,John Marshall Senior High,RW,373,93,24.9,75
+2022-23,East Whittier City Elementary,District Office,SS,100,36,36,1
+2022-23,Del Norte County Unified,Sunset High,RI,29,25,86.2,8
+2022-23,San Bernardino City Unified,Pacific High,SE,190,79,41.6,28
+2022-23,Washington Unified,Washington High,RA,89,12,13.5,1
+2022-23,Waterford Unified,Connecting Waters Charter,GM,416,9,2.2,31
+2022-23,Bassett Unified,Bassett Senior High,GM,470,103,21.9,87
+2022-23,Santa Monica-Malibu Unified,"Nonpublic, Nonsectarian Schools",GM,11,0,0,1
+2022-23,Madera Unified,Madera South High,RB,39,21,53.8,6
+2022-23,Gateway Unified,Gateway Educational Options,GM,65,27,41.5,9
+2022-23,San Bernardino City Unified,Sierra High,GF,277,261,94.2,24
+2022-23,Kingsburg Joint Union High,Kingsburg Independent Study High,RW,32,15,46.9,10
+2022-23,Kern High,District Office,TA,335,154,46,5
+2022-23,La Mesa-Spring Valley,District Office,GM,27,0,0,1
+2022-23,Burbank Unified,Burroughs High,SH,18,4,22.2,8
+2022-23,Corona-Norco Unified,John F. Kennedy High,RB,33,1,3,13
+2022-23,Acalanes Union High,Acalanes High,SS,106,22,20.8,17
+2022-23,Konocti Unified,Lower Lake High,RI,26,19,73.1,5
+2022-23,Poway Unified,Del Norte High,RW,904,113,12.5,204
+2022-23,El Rancho Unified,District Office,GM,88,33,37.5,2
+2022-23,Vallejo City Unified,Vallejo High,GM,778,425,54.6,118
+2022-23,Golden Valley Unified,Liberty High,SE,45,7,15.6,10
+2022-23,Los Angeles Unified,Elizabeth Learning Center,SE,385,159,41.3,22
+2022-23,Compton Unified,District Office,RH,77,26,33.8,2
+2022-23,Napa Valley Unified,American Canyon High,GM,873,169,19.4,204
+2022-23,Fremont Union High,Homestead High,GM,1217,143,11.8,284
+2022-23,Bellflower Unified,District Office,SD,36,10,27.8,1
+2022-23,Manhattan Beach Unified,Mira Costa High,RT,332,20,6,83
+2022-23,Jefferson Union High,District Office,SS,11,6,54.5,1
+2022-23,Los Angeles Unified,Boys Academic Leadership Academy,RB,69,15,21.7,3
+2022-23,Chaffey Joint Union High,Chaffey High,SD,543,251,46.2,76
+2022-23,Lodi Unified,Middle College High,GF,181,16,8.8,56
+2022-23,Cabrillo Unified,District Office,GF,14,1,7.1,1
+2022-23,Poway Unified,Poway High,SH,93,32,34.4,15
+2022-23,Modesto City Elementary,Connecting Waters Charter School - Central Valley,SH,17,1,5.9,2
+2022-23,Cloverdale Unified,Cloverdale High,SD,55,35,63.6,11
+2022-23,Mountain View-Los Altos Union High,Los Altos High,RW,722,78,10.8,181
+2022-23,Fillmore Unified,Sierra High,RH,120,69,57.5,15
+2022-23,Monterey Peninsula Unified,Central Coast High,SD,29,25,86.2,16
+2022-23,Kern High,Frontier High,RB,65,14,21.5,3
+2022-23,Santa Clara County Office of Education,Summit Public School: Tahoma,SS,88,31,35.2,20
+2022-23,Tustin Unified,Foothill High,RA,197,9,4.6,262
+2022-23,Perris Union High,Scholar Plus Online Learning,RH,132,121,91.7,16
+2022-23,West Contra Costa Unified,Hercules High,SS,262,79,30.2,63
+2022-23,East Side Union High,Latino College Preparatory Academy,GM,190,50,26.3,37
+2022-23,Pasadena Unified,District Office,GF,33,12,36.4,1
+2022-23,Oakland Unified,Skyline High,SH,70,50,71.4,9
+2022-23,Scott Valley Unified,Etna Union High,GF,78,21,26.9,16
+2022-23,Shasta Union High,Shasta Charter Academy,GF,161,3,1.9,36
+2022-23,Sierra Unified,Sierra High,SD,57,18,31.6,40
+2022-23,Pleasanton Unified,Foothill High,SE,79,22,27.8,35
+2022-23,Washington Unified,Washington Middle College High,SS,124,13,10.5,16
+2022-23,Capistrano Unified,Capistrano Union High,SS,179,85,47.5,54
+2022-23,Fallbrook Union High,Oasis High (Alternative),GF,66,6,9.1,27
+2022-23,Newport-Mesa Unified,District Office,GM,41,17,41.5,6
+2022-23,Dublin Unified,District Office,RA,12,3,25,2
+2022-23,Fresno Unified,District Office,RW,38,19,50,2
+2022-23,Sweetwater Union High,Hilltop Senior High,RB,38,13,34.2,5
+2022-23,Covina-Valley Unified,South Hills High,RA,118,5,4.2,28
+2022-23,Los Angeles Unified,WISH Academy High,SD,85,18,21.2,15
+2022-23,Sacramento City Unified,Luther Burbank High,RB,316,164,51.9,46
+2022-23,Huntington Beach Union High,Coast High,SE,30,6,20,2
+2022-23,Yuba City Unified,Yuba City High,GM,964,172,17.8,166
+2022-23,Pleasanton Unified,Foothill High,RW,707,115,16.3,1
+2022-23,Montebello Unified,Schurr High,SD,323,84,26,58
+2022-23,Liberty Union High,Independence High,SD,30,19,63.3,23
+2022-23,Round Valley Unified,Round Valley High,GM,71,32,45.1,4
+2022-23,Pasadena Unified,District Office,RW,19,2,10.5,1
+2022-23,Oceanside Unified,Coastal Academy Charter,TA,1910,56,2.9,123
+2022-23,San Diego Unified,Kearny College Connections,SD,51,14,27.5,4
+2022-23,Fremont Unified,Vista Alternative,SS,47,43,91.5,8
+2022-23,Northern Humboldt Union High,McKinleyville High,RI,60,33,55,9
+2022-23,San Bernardino City Unified,Sierra High,SH,90,84,93.3,9
+2022-23,Escalon Unified,Escalon Charter Academy,GM,152,4,2.6,1
+2022-23,Desert Sands Unified,La Quinta High,RW,415,117,28.2,82
+2022-23,Farmersville Unified,Deep Creek Academy,GM,47,24,51.1,19
+2022-23,Folsom-Cordova Unified,Innovations Academy,SS,126,83,65.9,4
+2022-23,Waterford Unified,Waterford High,SE,129,40,31,23
+2022-23,Los Angeles Unified,Susan Miller Dorsey Senior High,SF,16,7,43.8,4
+2022-23,Southern Kern Unified,Rosamond High Early College Campus,TA,960,297,30.9,166
+2022-23,Lodi Unified,Bear Creek High,SF,33,10,30.3,4
+2022-23,Alhambra Unified,Alhambra High,RB,20,7,35,7
+2022-23,Los Angeles Unified,Hollywood Senior High,GF,655,268,40.9,152
+2022-23,Contra Costa County Office of Education,Making Waves Academy,GF,578,135,23.4,51
+2022-23,Los Angeles Unified,Port of Los Angeles High,RH,789,122,15.5,166
+2022-23,Pasadena Unified,District Office,SD,62,22,35.5,7
+2022-23,Imperial Unified,Imperial Ave. Holbrook High,RH,68,31,45.6,9
+2022-23,Natomas Unified,Discovery High,GF,88,73,83,44
+2022-23,Sweetwater Union High,District Office,RW,151,128,84.8,1
+2022-23,Whittier Union High,Sierra Vista High (Alternative),SH,68,41,60.3,20
+2022-23,San Ramon Valley Unified,Venture (Alternative),SS,31,15,48.4,6
+2022-23,Le Grand Union High,Le Grand High,SD,33,11,33.3,6
+2022-23,Long Beach Unified,District Office,GM,173,86,49.7,1
+2022-23,Santa Monica-Malibu Unified,Santa Monica High,RF,16,6,37.5,5
+2022-23,Newport-Mesa Unified,District Office,TA,68,27,39.7,7
+2022-23,Inyo County Office of Education,College Bridge Academy,SS,293,168,57.3,58
+2022-23,Tustin Unified,District Office,TA,99,39,39.4,15
+2022-23,Sweetwater Union High,Mar Vista Senior High,SS,1168,260,22.3,222
+2022-23,Merced Union High,El Capitan High,RB,92,38,41.3,11
+2022-23,Taft Union High,Taft Union High,RD,12,5,41.7,2
+2022-23,Oakdale Joint Unified,Oakdale High,SS,806,185,23,135
+2022-23,Windsor Unified,Windsor Oaks Academy,SS,35,31,88.6,11
+2022-23,Dixon Unified,Dixon High,SD,119,33,27.7,25
+2022-23,Los Angeles Unified,University Pathways Medical Magnet Academy,SE,17,3,17.6,1
+2022-23,Temple City Unified,District Office,SD,23,9,39.1,5
+2022-23,Bellflower Unified,Mayfair High,TA,2654,506,19.1,381
+2022-23,Acton-Agua Dulce Unified,Compass Charter Schools of Los Angeles,RH,508,46,9.1,16
+2022-23,San Rafael City High,Terra Linda High,RH,638,259,40.6,124
+2022-23,El Monte City,District Office,GF,20,7,35,4
+2022-23,Corona-Norco Unified,Santiago High,RT,75,9,12,18
+2022-23,Twin Rivers Unified,Rio Linda High,GM,936,331,35.4,178
+2022-23,Compton Unified,District Office,SE,26,5,19.2,1
+2022-23,Mt. Diablo Unified,District Office,RW,89,26,29.2,1
+2022-23,Summerville Union High,Summerville High,GF,195,55,28.2,45
+2022-23,Dublin Unified,District Office,GF,11,1,9.1,2
+2022-23,Delano Joint Union High,Valley High,GM,108,71,65.7,266
+2022-23,Davis Joint Unified,Da Vinci Charter Academy,RA,40,3,7.5,2
+2022-23,Los Angeles Unified,Valley Academy of Arts and Sciences,RF,46,2,4.3,16
+2022-23,Santa Monica-Malibu Unified,Malibu High,RW,295,82,27.8,72
+2022-23,Irvine Unified,Woodbridge High,RF,58,2,3.4,14
+2022-23,Redwood City Elementary,North Star Academy,GF,261,9,3.4,20
+2022-23,San Diego Unified,Kearny College Connections,RT,29,6,20.7,8
+2022-23,Corona-Norco Unified,Orange Grove High,GM,227,165,72.7,59
+2022-23,Sweetwater Union High,Options Secondary,GF,58,26,44.8,9
+2022-23,Acalanes Union High,Las Lomas High,SE,96,7,7.3,12
+2022-23,Pleasanton Unified,Foothill High,GF,1067,110,10.3,30
+2022-23,Los Angeles Unified,Birmingham Community Charter High,SE,305,94,30.8,29
+2022-23,Oakland Unified,"Oakland Military Institute, College Preparatory Academy",RA,70,4,5.7,16
+2022-23,Los Alamitos Unified,District Office,TA,19,2,10.5,1
+2022-23,Raisin City Elementary,Ambassador Phillip V. Sanchez II Public Charter,RH,305,194,63.6,26
+2022-23,Twin Rivers Unified,Keema School for Independent Study,RB,150,48,32,27
+2022-23,Holtville Unified,Sam Webb Continuation,SE,19,10,52.6,2
+2022-23,Tulare County Office of Education,Valley Life Charter,GF,358,39,10.9,2
+2022-23,Los Angeles Unified,Animo Venice Charter High,RB,18,8,44.4,3
+2022-23,Yuba City Unified,River Valley High,RB,32,10,31.3,3
+2022-23,Fontana Unified,District Office,GM,23,8,34.8,6
+2022-23,Manteca Unified,Calla High,SS,181,82,45.3,91
+2022-23,Ojai Unified,Nordhoff High,RH,271,62,22.9,46
+2022-23,Poway Unified,District Office,GM,120,1,0.8,3
+2022-23,Fresno Unified,Edison High,RW,173,46,26.6,51
+2022-23,Fresno Unified,Herbert Hoover High,SE,237,69,29.1,30
+2022-23,Hacienda la Puente Unified,La Puente High,SH,59,20,33.9,15
+2022-23,Twin Rivers Unified,Foothill High,RT,75,36,48,1
+2022-23,Redlands Unified,Grove,RT,23,2,8.7,2
+2022-23,Bellflower Unified,Las Flores Home Education Independent Study Academy,RB,46,12,26.1,3
+2022-23,Caruthers Unified,Caruthers High,SH,12,4,33.3,1
+2022-23,Cotati-Rohnert Park Unified,El Camino High,RW,21,20,95.2,11
+2022-23,SBE - John Henry High,John Henry High,SD,46,4,8.7,5
+2022-23,San Diego Unified,Urban Discovery Academy Charter,SE,102,48,47.1,10
+2022-23,Kingsburg Joint Union High,Kingsburg High,RH,701,125,17.8,155
+2022-23,Roseville Joint Union High,Independence High (Alternative),GF,53,26,49.1,67
+2022-23,Fresno Unified,District Office,RW,38,19,50,3
+2022-23,East Side Union High,Independence High,SD,300,166,55.3,63
+2022-23,El Segundo Unified,El Segundo High,TA,1323,161,12.2,295
+2022-23,Kern High,Liberty High,RT,58,10,17.2,8
+2022-23,Los Banos Unified,Los Banos High,GF,812,217,26.7,174
+2022-23,Salinas Union High,District Office,SD,101,34,33.7,5
+2022-23,San Diego County Office of Education,Monarch,RW,17,14,82.4,1
+2022-23,Victor Valley Union High,Adelanto High,RW,79,32,40.5,12
+2022-23,Fairfield-Suisun Unified,Sem Yeto Continuation High,RB,81,71,87.7,22
+2022-23,Amador County Unified,Argonaut High,GF,264,81,30.7,41
+2022-23,Delhi Unified,Delhi High,GF,356,80,22.5,100
+2022-23,Castro Valley Unified,Redwood Continuation High,GM,75,47,62.7,23
+2022-23,El Segundo Unified,Arena High (Continuation),GM,27,24,88.9,9
+2022-23,Santa Clara County Office of Education,Santa Clara County Court,TA,102,1,1,23
+2022-23,East Side Union High,Santa Teresa High,RT,153,26,17,40
+2022-23,Inglewood Unified,City Honors International Preparatory High,RB,165,27,16.4,43
+2022-23,Palm Springs Unified,Palm Springs High,RF,70,3,4.3,25
+2022-23,Blochman Union Elementary,Family Partnership Charter,SS,178,2,1.1,18
+2022-23,Pajaro Valley Unified,Pajaro Valley High,SS,1437,471,32.8,216
+2022-23,Sonora Union High,Sonora High,RB,11,6,54.5,9
+2022-23,Lucerne Valley Unified,Gorman Learning Center San Bernardino/Santa Clarita,SD,262,19,7.3,11
+2022-23,Liberty Union High,Heritage High,SD,307,95,30.9,44
+2022-23,Corona-Norco Unified,District Office,GM,19,9,47.4,3
+2022-23,Liberty Union High,Liberty High,SD,502,152,30.3,6
+2022-23,Torrance Unified,District Office,SS,30,0,0,1
+2022-23,Glendale Unified,Herbert Hoover High,SS,978,273,27.9,298
+2022-23,Manhattan Beach Unified,District Office,TA,25,0,0,15
+2022-23,Temple City Unified,District Office,GM,14,4,28.6,3
+2022-23,Los Angeles Unified,"Math, Science, & Technology Magnet Academy at Roosevelt High",SS,351,81,23.1,96
+2022-23,Kern High,South High,SM,90,12,13.3,18
+2022-23,Riverside County Office of Education,JCS - Pine Hills,RA,16,1,6.3,1
+2022-23,Mt. Diablo Unified,District Office,GF,117,36,30.8,2
+2022-23,Kern High,Shafter High,SE,292,102,34.9,47
+2022-23,San Diego Unified,Lincoln High,RA,47,9,19.1,6
+2022-23,Colton Joint Unified,Washington High,GF,193,52,26.9,11
+2022-23,San Bernardino County Office of Education,Excelsior Charter,SD,428,2,0.5,58
+2022-23,Butte County Office of Education,Hearthstone,RT,22,5,22.7,4
+2022-23,Colusa County Office of Education,S. William Abel Academy,SS,26,18,69.2,7
+2022-23,Monterey Peninsula Unified,District Office,TA,28,9,32.1,4
+2022-23,Acton-Agua Dulce Unified,Mission Academy,RA,14,12,85.7,1
+2022-23,Kern High,Arvin High,RW,48,18,37.5,5
+2022-23,Alameda Unified,Encinal Junior/Senior High,RT,126,28,22.2,17
+2022-23,Visalia Unified,El Diamante High,SD,261,67,25.7,33
+2022-23,Fontana Unified,District Office,SS,11,4,36.4,1
+2022-23,Modesto City High,Grace M. Davis High,SS,1738,620,35.7,360
+2022-23,Jefferson Union High,Westmoor High,GM,737,127,17.2,146
+2022-23,San Lorenzo Unified,Arroyo High,RB,86,25,29.1,2
+2022-23,Tracy Joint Unified,Tracy Independent Study Charter,RT,40,17,42.5,4
+2022-23,Los Angeles Unified,Cal Burke High,SE,47,41,87.2,12
+2022-23,Grossmont Union High,Chaparral High,RW,49,38,77.6,204
+2022-23,San Mateo Union High,San Mateo High,RP,29,10,34.5,6
+2022-23,Merced County Office of Education,Valley Merced Community,SD,64,28,43.8,14
+2022-23,Tehachapi Unified,Tehachapi High,SE,95,23,24.2,13
+2022-23,Campbell Union High,District Office,TA,168,59,35.1,18
+2022-23,Red Bluff Joint Union High,Salisbury High (Continuation),SH,38,34,89.5,18
+2022-23,San Lorenzo Unified,KIPP King Collegiate High,GF,323,76,23.5,77
+2022-23,Perris Union High,Liberty High,RW,495,130,26.3,232
+2022-23,Los Angeles Unified,View Park Continuation,SS,34,33,97.1,13
+2022-23,Huntington Beach Union High,Westminster High,RW,101,26,25.7,19
+2022-23,Lodi Unified,Plaza Robles Continuation High,GF,77,51,66.2,31
+2022-23,Westside Elementary,Yosemite Valley Charter,GM,1237,20,1.6,41
+2022-23,South San Francisco Unified,El Camino High,RA,185,10,5.4,22
+2022-23,Monterey Peninsula Unified,District Office,RH,11,4,36.4,3
+2022-23,Los Angeles Unified,Edward R. Roybal Learning Center,RH,1022,432,42.3,173
+2022-23,Acton-Agua Dulce Unified,"Method Schools, LA",GM,150,43,28.7,32
+2022-23,Monterey Peninsula Unified,District Office,GF,11,3,27.3,2
+2022-23,Poway Unified,District Office,SE,27,0,0,1
+2022-23,Pomona Unified,Diamond Ranch High,RF,49,8,16.3,17
+2022-23,Live Oak Unified,Live Oak Alternative,TA,69,20,29,17
+2022-23,Riverside Unified,Polytechnic High,RT,50,9,18,37
+2022-23,Columbia Elementary,Phoenix Charter Academy College View,GF,160,1,0.6,24
+2022-23,San Diego Unified,Lincoln High,SD,344,159,46.2,64
+2022-23,Santa Ana Unified,Middle College High,RA,21,1,4.8,3
+2022-23,San Francisco Unified,Wallenberg (Raoul) Traditional High,RF,19,4,21.1,1
+2022-23,Fort Sage Unified,Herlong High,RW,29,20,69,5
+2022-23,Borrego Springs Unified,Borrego Springs High,RW,20,10,50,6
+2022-23,San Rafael City High,Madrone High Continuation,SH,28,8,28.6,2
+2022-23,Martinez Unified,Alhambra Senior High,GF,524,89,17,128
+2022-23,Campbell Union High,District Office,RH,71,27,38,1
+2022-23,Lodi Unified,Liberty High,GF,84,67,79.8,282
+2022-23,Perris Union High,Liberty High,SS,975,250,25.6,168
+2022-23,Garden Grove Unified,Marie L. Hare High,SS,336,205,61,105
+2022-23,San Lorenzo Unified,KIPP King Collegiate High,RA,183,8,4.4,45
+2022-23,Chowchilla Union High,Chowchilla Union High,RA,24,2,8.3,7
+2022-23,Sacramento City Unified,John F. Kennedy High,RW,227,58,25.6,2
+2022-23,Desert Sands Unified,La Quinta High,GM,1276,395,31,269
+2022-23,Val Verde Unified,Orange Vista High,SE,310,100,32.3,39
+2022-23,Palo Verde Unified,Twin Palms Continuation,SE,17,15,88.2,6
+2022-23,Woodland Joint Unified,District Office,GF,11,7,63.6,8
+2022-23,El Rancho Unified,Ruben Salazar Continuation,RH,273,204,74.7,77
+2022-23,Visalia Unified,District Office,SS,37,1,2.7,1
+2022-23,Orange Unified,OUSD Home Sch,SD,29,16,55.2,3
+2022-23,Newport-Mesa Unified,District Office,RH,32,13,40.6,4
+2022-23,Humboldt County Office of Education,Northern United - Humboldt Charter,SD,53,15,28.3,5
+2022-23,Redding Elementary,District Office,GM,37,2,5.4,3
+2022-23,Orange Unified,Canyon High,GM,1095,204,18.6,200
+2022-23,Desert Sands Unified,Palm Desert High,GM,1078,329,30.5,244
+2022-23,Redlands Unified,District Office,RW,121,9,7.4,5
+2022-23,Anaheim Union High,John F. Kennedy High,RF,258,16,6.2,17
+2022-23,San Juan Unified,El Sereno Alternative Education,RB,18,9,50,5
+2022-23,Anaheim Union High,Western High,SE,458,144,31.4,59
+2022-23,Twin Rivers Unified,Futures High,RW,373,38,10.2,43
+2022-23,Byron Union Elementary,Vista Oaks Charter,SE,32,2,6.3,2
+2022-23,Brentwood Union Elementary,District Office,SD,42,24,57.1,2
+2022-23,Escondido Union High,San Pasqual High,RH,1362,395,29,286
+2022-23,Contra Costa County Office of Education,Contra Costa School of Performing Arts,GF,245,42,17.1,21
+2022-23,Norwalk-La Mirada Unified,El Camino High (Continuation),SH,206,165,80.1,94
+2022-23,Contra Costa County Office of Education,Clayton Valley Charter High,SS,594,113,19,120
+2022-23,Sweetwater Union High,District Office,RB,42,37,88.1,1
+2022-23,Oro Grande,Mojave River Academy - Gold Canyon,SE,48,8,16.7,7
+2022-23,West Contra Costa Unified,John F. Kennedy High,RA,34,7,20.6,123
+2022-23,Modesto City High,Robert Elliott Alternative Education Center,RB,21,17,81,6
+2022-23,Tamalpais Union High,San Andreas High (Continuation),SD,38,35,92.1,11
+2022-23,Chino Valley Unified,Chino Hills High,RB,193,52,26.9,37
+2022-23,Kern High,District Office,GM,213,84,39.4,3
+2022-23,Los Banos Unified,District Office,SD,15,7,46.7,1
+2022-23,Corona-Norco Unified,John F. Kennedy High,RF,44,2,4.5,34
+2022-23,San Luis Obispo County Office of Education,San Luis Obispo County Juvenile Court,TA,29,0,0,4
+2022-23,El Rancho Unified,District Office,TA,184,74,40.2,2
+2022-23,Humboldt County Office of Education,Northern United - Humboldt Charter,SH,14,6,42.9,1
+2022-23,Galt Joint Union High,Liberty Ranch High,GF,524,85,16.2,132
+2022-23,Lakeport Unified,Natural High (Continuation),SS,48,21,43.8,35
+2022-23,Torrance Unified,Torrance High,SE,177,31,17.5,42
+2022-23,Acton-Agua Dulce Unified,Options for Youth-Acton,GM,1329,649,48.8,147
+2022-23,Barstow Unified,Barstow High,RB,308,202,65.6,35
+2022-23,Morgan Hill Unified,Ann Sobrato High,RA,241,10,4.1,75
+2022-23,Los Angeles Unified,"Science, Technology, Engineering, Arts and Mathematics at Legacy High School Complex",SS,310,56,18.1,60
+2022-23,Jefferson Union High,Thornton High,GM,118,62,52.5,29
+2022-23,Montebello Unified,Bell Gardens High,SS,2049,482,23.5,357
+2022-23,Merced Union High,El Capitan High,RA,219,28,12.8,10
+2022-23,El Monte City,District Office,SE,13,4,30.8,1
+2022-23,Pajaro Valley Unified,Renaissance High Continuation,SE,86,56,65.1,41
+2022-23,Salinas Union High,Mount Toro High,SE,75,37,49.3,35
+2022-23,Turlock Unified,John H. Pitman High,SE,340,103,30.3,49
+2022-23,Bellflower Unified,District Office,SD,36,10,27.8,5
+2022-23,Julian Union Elementary,Julian Charter,RH,93,13,14,4
+2022-23,Los Banos Unified,District Office,TA,15,7,46.7,293
+2022-23,Los Angeles County Office of Education,Central Juvenile Hall,SS,407,176,43.2,30
+2022-23,SBE - KIPP Navigate College Prep,KIPP Navigate College Prep,SD,46,10,21.7,6
+2022-23,Perris Union High,Liberty High,GM,1025,217,21.2,295
+2022-23,Desert Sands Unified,La Quinta High,RD,25,8,32,2
+2022-23,Wiseburn Unified,Da Vinci Connect,SE,32,3,9.4,1
+2022-23,Corona-Norco Unified,Orange Grove High,SE,122,99,81.1,24
+2022-23,Paradise Unified,HomeTech Charter,SH,16,6,37.5,1
+2022-23,San Juan Unified,San Juan Choices Charter,RW,167,36,21.6,26
+2022-23,William S. Hart Union High,Castaic High,RH,568,121,21.3,131
+2022-23,Whittier Union High,Pioneer High,TA,1228,342,27.9,359
+2022-23,SBE - Latitude 37.8 High,Latitude 37.8 High,RH,207,79,38.2,26
+2022-23,Beaumont Unified,Beaumont Senior High,SS,2237,729,32.6,421
+2022-23,Modesto City High,Modesto High,RT,75,30,40,14
+2022-23,Perris Union High,Liberty High,GM,1025,217,21.2,39
+2022-23,Los Angeles Unified,Larchmont Charter,RB,72,18,25,3
+2022-23,Arcadia Unified,Rancho Learning Center (Alternative),SE,14,2,14.3,2
+2022-23,Claremont Unified,Claremont High,GF,1139,253,22.2,284
+2022-23,Pasadena Unified,Aveson Global Leadership Academy,GF,111,43,38.7,16
+2022-23,Los Angeles Unified,Valley Academy of Arts and Sciences,GM,393,92,23.4,105
+2022-23,Mt. Diablo Unified,District Office,RH,107,41,38.3,4
+2022-23,Valley Center-Pauma Unified,Oak Glen High,RH,87,60,69,34
+2022-23,Firebaugh-Las Deltas Unified,El Puente High,RH,22,11,50,4
+2022-23,Los Angeles Unified,Will Rogers Continuation,GF,91,82,90.1,16
+2022-23,San Diego County Office of Education,Literacy First Charter,SS,1093,144,13.2,24
+2022-23,San Francisco Unified,District Office,TA,69,26,37.7,25
+2022-23,Los Angeles County Office of Education,Russell Westbrook Why Not? High,GM,143,74,51.7,40
+2022-23,Corona-Norco Unified,John F. Kennedy High,SS,401,48,12,249
+2022-23,Hemet Unified,Tahquitz High,SF,29,17,58.6,5
